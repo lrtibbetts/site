@@ -5,7 +5,9 @@ module.exports = {
     "./src/**/*.{js,ts,jsx,tsx}",
   ],
   theme: {
-    extend: {},
+    fontFamily: {
+      'mono': ['Courier New', 'Courier', 'mono']
+    }
   },
   plugins: [],
 }
