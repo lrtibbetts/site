@@ -7,6 +7,9 @@ module.exports = {
   theme: {
     fontFamily: {
       'mono': ['Courier New', 'Courier', 'mono']
+    },
+    borderWidth: {
+      '2': '1px'
     }
   },
   plugins: [],
