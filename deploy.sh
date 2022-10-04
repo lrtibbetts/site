@@ -12,15 +12,13 @@ cd dist
 # place .nojekyll to bypass Jekyll processing
 echo > .nojekyll
 
-# if you are deploying to a custom domain
-echo 'www.lucytibbetts.website' > CNAME
+echo 'lucytibbetts.website' > CNAME
 
-#git init
-#git checkout -b main
+git init
+git checkout -b main
 git add -A
 git commit -m 'deploy'
 
-# if you are deploying to https://<USERNAME>.github.io
 git push -f git@github.com:lrtibbetts/lrtibbetts.github.io.git main
 
 cd -
