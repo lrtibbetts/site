@@ -6,13 +6,16 @@
         <title>hi, I'm Lucy | albums</title>
         <meta name="description" content="Books I've read">
         <link rel="stylesheet" href="../src/style.css">
+        <script type="module" src="/src/albums.ts"></script>
     </head>
-    <body class="bg-teal-800 font-mono text-slate-200 md:ml-40 mx-10">
+    <body class="bg-teal-800 font-mono text-slate-200 lg:mx-40 md:mx-24 mx-10">
         <a class="absolute left-7 top-6 p-1 hover:bg-teal-700 rounded-md" href="/">
             <img class="w-5" src="../assets/home.png">
         </a>
         <img class="mt-28 h-20" src="../assets/albums.svg" alt="albums"/>
         <p class="mt-10 md:text-lg text-base">
+            albums through the years since 1965.
         </p>
+        <div id="albums" class="grid lg:grid-cols-5 md:grid-cols-4 grid-cols-3"></div>
     </body>
 </html>

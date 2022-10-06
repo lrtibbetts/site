@@ -8,7 +8,9 @@
     "build": "tsc && vite build",
     "preview": "vite preview"
   },
-  "pre-commit": ["build"],
+  "pre-commit": [
+    "build"
+  ],
   "devDependencies": {
     "autoprefixer": "^10.4.12",
     "postcss": "^8.4.17",
