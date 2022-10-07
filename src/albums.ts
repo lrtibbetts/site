@@ -21,7 +21,7 @@ export function getAlbums() {
             trimmedName = album.name.substring(0, album.name.indexOf('(') - 1);
         }
         text.innerHTML = trimmedName + ", " + album.date.substring(0,4);
-        text.className = "text-teal-900 bg-slate-200 rounded-sm p-1 font-bold lg:text-lg md:text-base text-sm absolute text-center album-text"
+        text.className = "text-black bg-white rounded-sm p-1 font-bold xl:text-lg absolute text-center album-text"
         div.appendChild(text);
 
         albumsContainer?.appendChild(div);
