@@ -1,8 +1,6 @@
 import albums from '../albums.json'
 
 export function getAlbums() {
-    console.log(albums);
-
     let albumsContainer = document.getElementById("albums");
 
     albums.forEach((album)=>{
