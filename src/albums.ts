@@ -7,8 +7,8 @@ export function getAlbums() {
         let div = document.createElement("div");
         div.className="relative"
         let img = document.createElement("img");
-        //img.src = "../" + album.file;
-        img.src = album.image;
+        img.src = "../" + album.file;
+        //img.src = album.image;
         img.className = "hover:opacity-30"
         div.appendChild(img);
 
