@@ -1,0 +1,350 @@
+[
+    {
+        "name": "Highway 61 Revisited",
+        "date": "1965-08-30",
+        "image": "https://i.scdn.co/image/ab67616d0000b27341720ef0ae31e10d39e43ca2",
+        "file": "album_art/Highway 61 Revisited.jpg"
+    },
+    {
+        "name": "Buffalo Springfield",
+        "date": "1966-12-05",
+        "image": "https://i.scdn.co/image/ab67616d0000b273d231bd1716b71b6444e25f89",
+        "file": "album_art/Buffalo Springfield.jpg"
+    },
+    {
+        "name": "Something Else (Deluxe)",
+        "date": "1967-09-15",
+        "image": "https://i.scdn.co/image/ab67616d0000b2734eb2ec59c0f3292cb6b588d4",
+        "file": "album_art/Something Else (Deluxe).jpg"
+    },
+    {
+        "name": "Music From Big Pink (Remastered)",
+        "date": "1968-07-01",
+        "image": "https://i.scdn.co/image/ab67616d0000b27320bbceac6950d3fe13fa13c3",
+        "file": "album_art/Music From Big Pink (Remastered).jpg"
+    },
+    {
+        "name": "Unhalfbricking (Bonus Track Edition)",
+        "date": "1969-07-03",
+        "image": "https://i.scdn.co/image/ab67616d0000b27362f2d2ef2ec6d1496020d61b",
+        "file": "album_art/Unhalfbricking (Bonus Track Edition).jpg"
+    },
+    {
+        "name": "Bridge Over Troubled Water",
+        "date": "1970-01-26",
+        "image": "https://i.scdn.co/image/ab67616d0000b273ba7fe7dd76cd4307e57dd75f",
+        "file": "album_art/Bridge Over Troubled Water.jpg"
+    },
+    {
+        "name": "Songs For Beginners",
+        "date": "1971",
+        "image": "https://i.scdn.co/image/ab67616d0000b2733f986eddf721780bc3dd95d7",
+        "file": "album_art/Songs For Beginners.jpg"
+    },
+    {
+        "name": "Honky Chateau",
+        "date": "1972-05-19",
+        "image": "https://i.scdn.co/image/ab67616d0000b2733009007708ab5134936a58b3",
+        "file": "album_art/Honky Chateau.jpg"
+    },
+    {
+        "name": "The Dark Side of the Moon",
+        "date": "1973-03-01",
+        "image": "https://i.scdn.co/image/ab67616d0000b273ea7caaff71dea1051d49b2fe",
+        "file": "album_art/The Dark Side of the Moon.jpg"
+    },
+    {
+        "name": "Sheer Heart Attack (Deluxe Remastered Version)",
+        "date": "1974-11-08",
+        "image": "https://i.scdn.co/image/ab67616d0000b27359998815d706661e2c404d9f",
+        "file": "album_art/Sheer Heart Attack (Deluxe Remastered Version).jpg"
+    },
+    {
+        "name": "Wish You Were Here",
+        "date": "1975-09-12",
+        "image": "https://i.scdn.co/image/ab67616d0000b2731a84d71391df7469c5ab8539",
+        "file": "album_art/Wish You Were Here.jpg"
+    },
+    {
+        "name": "Wings At The Speed Of Sound (Archive Collection)",
+        "date": "1976-03-25",
+        "image": "https://i.scdn.co/image/ab67616d0000b27305bdc7164b38b5bbadeb63a3",
+        "file": "album_art/Wings At The Speed Of Sound (Archive Collection).jpg"
+    },
+    {
+        "name": "Out of the Blue",
+        "date": "1977",
+        "image": "https://i.scdn.co/image/ab67616d0000b2738c4e95986c803791125e8991",
+        "file": "album_art/Out of the Blue.jpg"
+    },
+    {
+        "name": "Earth",
+        "date": "1978-02-06",
+        "image": "https://i.scdn.co/image/ab67616d0000b2735a4a9669ca9edc91b2537501",
+        "file": "album_art/Earth.jpg"
+    },
+    {
+        "name": "Breakfast In America (Deluxe Edition)",
+        "date": "1979-03-29",
+        "image": "https://i.scdn.co/image/ab67616d0000b2735405ef9e393f5f1e53b4b42e",
+        "file": "album_art/Breakfast In America (Deluxe Edition).jpg"
+    },
+    {
+        "name": "Remain in Light",
+        "date": "1980-10-08",
+        "image": "https://i.scdn.co/image/ab67616d0000b273f9e2d82b9969defab2105859",
+        "file": "album_art/Remain in Light.jpg"
+    },
+    {
+        "name": "Private Eyes (Expanded Edition)",
+        "date": "1981",
+        "image": "https://i.scdn.co/image/ab67616d0000b273c84b9bd63074979108c7c752",
+        "file": "album_art/Private Eyes (Expanded Edition).jpg"
+    },
+    {
+        "name": "Forever Now",
+        "date": "1982",
+        "image": "https://i.scdn.co/image/ab67616d0000b2730faf6c6f66c3ba57e7dbf33b",
+        "file": "album_art/Forever Now.jpg"
+    },
+    {
+        "name": "Soul Mining",
+        "date": "1983",
+        "image": "https://i.scdn.co/image/ab67616d0000b273bec17ea0ff2a58828785a029",
+        "file": "album_art/Soul Mining.jpg"
+    },
+    {
+        "name": "The Works",
+        "date": "1984-02-27",
+        "image": "https://i.scdn.co/image/ab67616d0000b27398a0577da5896bcc66521861",
+        "file": "album_art/The Works.jpg"
+    },
+    {
+        "name": "Little Creatures",
+        "date": "1985-07-10",
+        "image": "https://i.scdn.co/image/ab67616d0000b273ffc1aa3a9e2d29a2d940ae31",
+        "file": "album_art/Little Creatures.jpg"
+    },
+    {
+        "name": "Graceland (25th Anniversary Deluxe Edition)",
+        "date": "1986-08-12",
+        "image": "https://i.scdn.co/image/ab67616d0000b27309880a7b8636c5a0615dc0c8",
+        "file": "album_art/Graceland (25th Anniversary Deluxe Edition).jpg"
+    },
+    {
+        "name": "Bad Animals",
+        "date": "1987-06-06",
+        "image": "https://i.scdn.co/image/ab67616d0000b2735fa646a4cfcd17842fdd7bbd",
+        "file": "album_art/Bad Animals.jpg"
+    },
+    {
+        "name": "Tracy Chapman",
+        "date": "1988-04-05",
+        "image": "https://i.scdn.co/image/ab67616d0000b2737602becfedf6e25752cb54ff",
+        "file": "album_art/Tracy Chapman.jpg"
+    },
+    {
+        "name": "Disintegration (Deluxe Edition)",
+        "date": "1989-05-02",
+        "image": "https://i.scdn.co/image/ab67616d0000b273c7ca2db25ad377e022bc3975",
+        "file": "album_art/Disintegration (Deluxe Edition).jpg"
+    },
+    {
+        "name": "Heaven or Las Vegas",
+        "date": "1990",
+        "image": "https://i.scdn.co/image/ab67616d0000b2732be08c60dcb4b5608abbe61e",
+        "file": "album_art/Heaven or Las Vegas.jpg"
+    },
+    {
+        "name": "Sugar Tax",
+        "date": "1991-05-07",
+        "image": "https://i.scdn.co/image/ab67616d0000b273518f91224cff0d2e9b6d56ef",
+        "file": "album_art/Sugar Tax.jpg"
+    },
+    {
+        "name": "Wish",
+        "date": "1992-04-21",
+        "image": "https://i.scdn.co/image/ab67616d0000b273e410fa31e3dfcc7521cde86d",
+        "file": "album_art/Wish.jpg"
+    },
+    {
+        "name": "Desire Walks On",
+        "date": "1993-11-16",
+        "image": "https://i.scdn.co/image/ab67616d0000b2732acd216746d9aa71319d6d63",
+        "file": "album_art/Desire Walks On.jpg"
+    },
+    {
+        "name": "Illmatic XX",
+        "date": "2014-04-15",
+        "image": "https://i.scdn.co/image/ab67616d0000b27375d9ecf8d29744037d2d6064",
+        "file": "album_art/Illmatic XX.jpg"
+    },
+    {
+        "name": "(What's The Story) Morning Glory?",
+        "date": "1995-10-02",
+        "image": "https://i.scdn.co/image/ab67616d0000b2732f2eeee9b405f4d00428d84c",
+        "file": "album_art/(What's The Story) Morning Glory?.jpg"
+    },
+    {
+        "name": "The Score (Expanded Edition)",
+        "date": "1996-02-13",
+        "image": "https://i.scdn.co/image/ab67616d0000b2735b7865be7f7fcc05faec6137",
+        "file": "album_art/The Score (Expanded Edition).jpg"
+    },
+    {
+        "name": "Time Out Of Mind",
+        "date": "1997-09-30",
+        "image": "https://i.scdn.co/image/ab67616d0000b273fa4240ed863bbd8bec6e9c34",
+        "file": "album_art/Time Out Of Mind.jpg"
+    },
+    {
+        "name": "The Miseducation of Lauryn Hill",
+        "date": "1998-08-25",
+        "image": "https://i.scdn.co/image/ab67616d0000b273e08b1250db5f75643f1508c9",
+        "file": "album_art/The Miseducation of Lauryn Hill.jpg"
+    },
+    {
+        "name": "Enema Of The State",
+        "date": "1999-06-01",
+        "image": "https://i.scdn.co/image/ab67616d0000b2736da502e35a7a3e48de2b0f74",
+        "file": "album_art/Enema Of The State.jpg"
+    },
+    {
+        "name": "Kid A",
+        "date": "2000-10-02",
+        "image": "https://i.scdn.co/image/ab67616d0000b2736c7112082b63beefffe40151",
+        "file": "album_art/Kid A.jpg"
+    },
+    {
+        "name": "Is This It",
+        "date": "2001-07-30",
+        "image": "https://i.scdn.co/image/ab67616d0000b27313f2466b83507515291acce4",
+        "file": "album_art/Is This It.jpg"
+    },
+    {
+        "name": "Yoshimi Battles the Pink Robots",
+        "date": "2002-05-13",
+        "image": "https://i.scdn.co/image/ab67616d0000b273ca69f52416a728ebd0b9103c",
+        "file": "album_art/Yoshimi Battles the Pink Robots.jpg"
+    },
+    {
+        "name": "Mouthfuls",
+        "date": "2003-08-04",
+        "image": "https://i.scdn.co/image/ab67616d0000b273f769f03296973b6fe2a207e7",
+        "file": "album_art/Mouthfuls.jpg"
+    },
+    {
+        "name": "The College Dropout",
+        "date": "2004-02-10",
+        "image": "https://i.scdn.co/image/ab67616d0000b27325b055377757b3cdd6f26b78",
+        "file": "album_art/The College Dropout.jpg"
+    },
+    {
+        "name": "The Sunset Tree",
+        "date": "2005-04-25",
+        "image": "https://i.scdn.co/image/ab67616d0000b27303ba51e9a44665b2ff3d37c7",
+        "file": "album_art/The Sunset Tree.jpg"
+    },
+    {
+        "name": "Sam's Town",
+        "date": "2006-09-27",
+        "image": "https://i.scdn.co/image/ab67616d0000b2734f87f14089217e3f70a5f39e",
+        "file": "album_art/Sam's Town.jpg"
+    },
+    {
+        "name": "We Were Dead Before The Ship Even Sank",
+        "date": "2007-03-20",
+        "image": "https://i.scdn.co/image/ab67616d0000b273ed8a70a92499e619895646e8",
+        "file": "album_art/We Were Dead Before The Ship Even Sank.jpg"
+    },
+    {
+        "name": "808s & Heartbreak",
+        "date": "2008-11-24",
+        "image": "https://i.scdn.co/image/ab67616d0000b273346d77e155d854735410ed18",
+        "file": "album_art/808s & Heartbreak.jpg"
+    },
+    {
+        "name": "Aim and Ignite (Deluxe Version)",
+        "date": "2009",
+        "image": "https://i.scdn.co/image/ab67616d0000b273e470d000950e13412e62cef0",
+        "file": "album_art/Aim and Ignite (Deluxe Version).jpg"
+    },
+    {
+        "name": "Plastic Beach",
+        "date": "2010-03-03",
+        "image": "https://i.scdn.co/image/ab67616d0000b273661d019f34569f79eae9e985",
+        "file": "album_art/Plastic Beach.jpg"
+    },
+    {
+        "name": "The Head and the Heart",
+        "date": "2011-01-11",
+        "image": "https://i.scdn.co/image/ab67616d0000b27313da76cd4e52cf6a9f166be4",
+        "file": "album_art/The Head and the Heart.jpg"
+    },
+    {
+        "name": "channel ORANGE",
+        "date": "2012-07-10",
+        "image": "https://i.scdn.co/image/ab67616d0000b2737aede4855f6d0d738012e2e5",
+        "file": "album_art/channel ORANGE.jpg"
+    },
+    {
+        "name": "Melophobia",
+        "date": "2013-10-08",
+        "image": "https://i.scdn.co/image/ab67616d0000b27348831f8d5d8f8609bb2c99ed",
+        "file": "album_art/Melophobia.jpg"
+    },
+    {
+        "name": "Strange Desire",
+        "date": "2014-07-14",
+        "image": "https://i.scdn.co/image/ab67616d0000b2734849278ce9876ebea7353d66",
+        "file": "album_art/Strange Desire.jpg"
+    },
+    {
+        "name": "Little Neon Limelight",
+        "date": "2015-03-17",
+        "image": "https://i.scdn.co/image/ab67616d0000b273a56131655dc4593100f16f22",
+        "file": "album_art/Little Neon Limelight.jpg"
+    },
+    {
+        "name": "The Life Of Pablo",
+        "date": "2016-06-10",
+        "image": "https://i.scdn.co/image/ab67616d0000b2732a7db835b912dc5014bd37f4",
+        "file": "album_art/The Life Of Pablo.jpg"
+    },
+    {
+        "name": "Gone Now",
+        "date": "2017-06-02",
+        "image": "https://i.scdn.co/image/ab67616d0000b273d92afcf66072c83e4b28c6bb",
+        "file": "album_art/Gone Now.jpg"
+    },
+    {
+        "name": "The Starclimber",
+        "date": "2018-02-09",
+        "image": "https://i.scdn.co/image/ab67616d0000b273ef85b958f3dbd5329600daaf",
+        "file": "album_art/The Starclimber.jpg"
+    },
+    {
+        "name": "Only Child",
+        "date": "2019-02-19",
+        "image": "https://i.scdn.co/image/ab67616d0000b2730ef84b82816687fc634c4910",
+        "file": "album_art/Only Child.jpg"
+    },
+    {
+        "name": "Women In Music Pt. III",
+        "date": "2020-06-26",
+        "image": "https://i.scdn.co/image/ab67616d0000b273d2631fe4c90aae7dec8fb0df",
+        "file": "album_art/Women In Music Pt. III.jpg"
+    },
+    {
+        "name": "30",
+        "date": "2021-11-19",
+        "image": "https://i.scdn.co/image/ab67616d0000b273c6b577e4c4a6d326354a89f7",
+        "file": "album_art/30.jpg"
+    },
+    {
+        "name": "Hold On Baby",
+        "date": "2022-07-29",
+        "image": "https://i.scdn.co/image/ab67616d0000b2730e805f1edacf54bbf0b20660",
+        "file": "album_art/Hold On Baby.jpg"
+    }
+]

@@ -1,4 +1,4 @@
-import albums from '../albums.json'
+import albums from '../albums_with_local_assets.json'
 
 export function getAlbums() {
     let albumsContainer = document.getElementById("albums");
@@ -7,7 +7,7 @@ export function getAlbums() {
         let div = document.createElement("div");
         div.className="relative"
         let img = document.createElement("img");
-        img.src = album.image;
+        img.src = "../" + album.file;
         img.className = "hover:opacity-30"
         div.appendChild(img);
 
