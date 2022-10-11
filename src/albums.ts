@@ -14,7 +14,7 @@ export function getAlbums() {
 
         let text = document.createElement("p");
         text.innerHTML = album.trimmed_name + ", " + album.date.substring(0,4);
-        text.className = "text-black bg-white rounded-sm p-1 font-bold xl:text-lg text-center album-text"
+        text.className = "text-black bg-white rounded-sm p-1 font-bold xl:text-lg md:text-base text-sm text-center album-text"
         div.appendChild(text);
 
         albumsContainer?.appendChild(div);
