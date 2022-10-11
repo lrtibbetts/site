@@ -13,13 +13,7 @@ export function getAlbums() {
         div.appendChild(img);
 
         let text = document.createElement("p");
-        let trimmedName = album.name;
-        // second condition needed thanks to fucking Oasis
-        if (album.name.includes('(') && album.name.indexOf('(') !== 0) {
-            // Remove things like (Deluxe), (Remastered), etc.
-            trimmedName = album.name.substring(0, album.name.indexOf('(') - 1);
-        }
-        text.innerHTML = trimmedName + ", " + album.date.substring(0,4);
+        text.innerHTML = album.trimmed_name + ", " + album.date.substring(0,4);
         text.className = "text-black bg-white rounded-sm p-1 font-bold xl:text-lg absolute text-center album-text"
         div.appendChild(text);
 
